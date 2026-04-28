@@ -1,7 +1,7 @@
-## Loan Portfolio Health Monitor
+# Loan Portfolio Health Monitor
 This project presents an interactive Power BI dashboard built using financial loan data to analyze portfolio performance, credit risk, and borrower behavior. It follows a Lakehouse-based data architecture in Microsoft Fabric to transform raw data into structured insights that support better decision-making.
 
-# Key Features
+## Key Features
 - **Data Engineering & Architecture**:
 Designed an end-to-end data pipeline in Microsoft Fabric using a Lakehouse approach. Raw loan data was ingested, cleaned, and transformed into structured tables, then moved into a Data Warehouse for reporting and analysis.
 
@@ -14,7 +14,7 @@ Developed a Power BI dashboard with dynamic visuals and filters for state, grade
 - **Risk & Business Insights**:
 Analyzed patterns in loan performance by comparing interest rates, debt-to-income ratios, and loan status. Identified differences between performing and non-performing loans to understand risk distribution.
 
-
+## Dashboard Preview
 - **Summary View**:
 <img width="1000" height="600" alt="Screenshot 2026-04-28 230517" src="https://github.com/user-attachments/assets/d9d786df-250d-4544-9f06-26507c763eea" />
 
